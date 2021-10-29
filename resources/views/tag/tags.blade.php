@@ -29,7 +29,6 @@
                         @forelse ($tags as $tag)
                         <tr>
                             <td>{{++$start}}</td>
-                            {{-- <td>{{$tag->title}}</td> --}}
                             <td>{{$tag->name}}</</td>
                             <td>{{$tag->created_at}}</</td>
                             <td>{{$tag->updated_at->diffForHumans()}}</</td>
