@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row my-3">
             <div class="col-10">
-                <h3>All Articles</h3>
+                <h3>All Category</h3>
             </div>
             <div class="col-2 text-right">
                 <a href="{{route('categories.create')}}" class="btn btn-primary btn-sm">Add New</a>
