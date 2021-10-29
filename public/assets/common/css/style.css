@@ -1,0 +1,59 @@
+body {
+    margin:0;
+    padding: 0;
+    background-color: #f8f9fd;
+}
+h3 {
+    font-weight: 400;
+}
+.login-heading {
+    margin-top: 80px;
+}
+.container .login-form,
+.container .sign-up-form {
+    background-color: #fff;
+    margin: 50px 0;
+}
+.container .sign-up {
+    padding: 30px;
+}
+.container .login{
+    padding: 50px;
+}
+.form-control {
+    margin: 20px 0;
+}
+
+form input[type="checkbox"] {
+    margin: 0;
+}
+.alert {
+    display: block;
+}
+.container .icon {
+    width: 80px;
+    height: 80px;
+    font-size: 25px;
+    padding: 30px;
+    border-radius: 50%;
+    background-color: #1089ff;
+    color: #fff;
+    margin: auto;
+}
+
+label {
+    color: #0d6efd !important;
+}
+.container .socail-sign-up {
+    background: url('/assets/common/images/sign-up-form.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 30px;
+}
+.alert {
+    padding: 8px;
+    margin-top: 5px;
+}
